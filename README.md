@@ -1,5 +1,7 @@
 # EdenGameStore
 
+ **Note this is only the code used in the program
+
 The Purpose of the program is to have a way for users to have a online game store experience in which they can purchase games through the use of a downloadable program. Furthermore, the program incorporates a cart system to keep track of the items the user would like to purchase or remove from their cart. During checkout the total is calculated within the program to display to the user along with the price of each item in the user's cart. After the purchase is complete a printable receipt is displayed to the user in which they can download.
 
 Languages Used In Program
