@@ -14,7 +14,6 @@ Operations Created in the Provided Code
 * Functioning Cart System that allows to users to add and remove items to their online cart.
 * Customer information is stored in database.
 * Item and inventory information is stored in database
-* Printable receipt is produced when purchase is complete
 * Information is updated in the database when purchase is complete
 
 Contact Information
